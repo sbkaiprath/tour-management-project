@@ -16,5 +16,13 @@
     "mysql": "^2.18.1",
     "nodemon": "^2.0.6"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbkaiprath/tour-management-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sbkaiprath/tour-management-project/issues"
+  },
+  "homepage": "https://github.com/sbkaiprath/tour-management-project#readme"
 }
